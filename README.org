@@ -96,15 +96,15 @@ Placer à l'abri des rongeurs dans du sable, de la tourbe humide, à températur
 Semer tant que les germes sont courts, si possible.
 
 ** Cormiers et Alisiers (Poiriers ? Pommiers ?)
-Voir le site de l'association cormier
+Voir le site de l'association cormier.
 Les plus gros fruits pourraient avoir le meilleur taux de germination [cite:@drvodelic2018].
 *** Préparation des graines
-Extraire des fruits mûrs au moment où ils commencent juste à fermenter
-Extraire les graines de la pulpe avec un tamis, bien rincer les graines à l'eau [cite:@drvodelic2018].
-Enlever le tégument [cite:@bariteau2006]
-Laisser sécher les graines naturellement a l'air ambiant ?  2 semaines à température ambiante ?
+-Extraire des fruits mûrs au moment où ils commencent juste à fermenter
+-Extraire les graines de la pulpe avec un tamis, bien rincer les graines à l'eau [cite:@drvodelic2018].
+-Enlever le tégument [cite:@bariteau2006]
+-Laisser sécher les graines naturellement a l'air ambiant ?  2 semaines à température ambiante ?
 *** Stratification
-2-4°C Pendant 4 mois dans un milieux humide (sable, tourbe ...)
+ 2-4°C Pendant 4 mois dans un milieux humide (sable, tourbe ...)
 Les graines peuvent germer durant la fin de la stratification, surveiller.
 *** Semis
 Recouvrir d'une mince couche de sable ou substrat humide
@@ -113,7 +113,7 @@ Recouvrir d'une mince couche de sable ou substrat humide.
 Attention germination rapide,
 développement de multiples racines dès la germination,
 ne pas semer densément, 3-4 jours pour repiquer.
-Si peu de graines, pots individuels
+Si possible, utiliser des pots individuels.
 
 *** Précaution
 Les graines de poirier peuvent rentrer à nouveau en dormance si elle sont
