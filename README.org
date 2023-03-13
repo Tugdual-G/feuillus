@@ -1,0 +1,118 @@
+#+title: Notes sur le reboisement de petites parcelles agricoles
+
+Ces notes personnelles concernent le boisement en feuillus de petites parcelles ( < 0.5 ha ) en limitant
+l'investissement financier ainsi que les heures de travail autant que possible.
+
+Le document synthétise les informations glanées dans la littérature ainsi que
+les réflexions liées à l'observation de parcelles boisées présentant des niveaux d'interventions variables.
+L'expérience de plantations de haies bocagères a également enrichit la réflexion.
+
+* Choix des essences
+Le choix des essences s'appuie sur l'observation de la flore locale en tenant compte des caractéristiques de chaque station.
+Pour des questions de coût et de simplicité, le reboisement s'appuie autant que possible sur la récolte de semences et drageons locaux.
+L'anticipation des aléas passe par la diversification des essences.
+** Changement climatique
+La prise en compte du changement climatique s'appuie en partie sur l'outil climessence.
+L'expérimentation raisonnée joue également un rôle,
+par exemple, via la migration assistée d'essences provenant de stations locales plus sèches,
+ou par l'utilisation d'essences proches des essences locales et non envahissantes (chêne tauzin, chêne liège, chêne faginé).
+
+
+* Techniques de semis
+** Semis direct en pleine terre
+avantages:
+- moins de manipulations des semences, simplicité
+- Système racinaire profond et exempt de déformations
+- Sélection naturelle
+- facilite de grandes quantités/densités de tiges
+- économique
+
+Désavantages:
+- Plants plus sensibles à la concurrence en tout début de croissance
+  - Désherbage et suivis des jeunes plants au moins sur la première année
+- Nécessite un sol humide au début du développement racinaire
+- Requiert une forte disponibilité en semences
+
+*** Semis directement après récolte des graines
+Avantages:
+- Pas de stockage à gérer
+- ? limite la transmission de la fonte des semis ?
+- Pas de germe fragile soumis aux manipulations
+
+*** Semis direct après germination préalable
+avantages:
+- Moins d'incertitude sur la réussite des semis et le nombre de plants viables
+- Moins de temps laissé aux rongeurs et à la concurrence
+- Plus adapté aux semences peu abondantes
+
+* Environnement des semis et plantations
+Dans le cas de terres agricoles, la difficulté concerne principalement la gestion de la concurrence des herbes et les problèmes liés à l'excès de lumière et de chaleur.
+L'équilibre qui doit s'opérer entre concurrence et luminosité nécessite un suivi régulier dans les premières années.
+
+Les jeunes tiges sont sensibles à l'exposition directe au soleil, même chez les essences très héliophiles.
+Une protection à la lumière peut être pourvue par des branchages, une végétation d'accompagnement, des manchons...
+Il semble préférable de mettre en place certains types de protections au printemps afin d'éviter que celle-ci
+n'accueillent les rongeurs pendant l'hiver.
+
+Pour les raisons précédentes, un reboisement progressif dans le temps peut être plus simple à mettre en place.
+Cela permet de limiter les coûts en grillage et protections et les jeunes arbres peuvent profiter de l'ombre de ceux qui ont étés précédemment installés.
+
+La végétation d'accompagnement et la concurrence participent à la croissance en hauteur des plants.
+Semer densément permet une protection vis-à-vis du soleil et du vent et permet aux arbres de gagner en hauteur.
+Il est plus simple d'opérer à une sélection manuelle par la suite si l'on souhaite favoriser des arbres comme les fruitiers forestiers.
+
+Respecter les caractéristiques de sociabilité des espèces, par exemple, ne pas planter une forêt pure de merisiers.
+Préférer le semis en ilots pour les espèces naturellement disséminées ou très héliophiles.
+Semer en îlot permet de limiter la concurrence enter-espèces, et facilite grandement le suivi et les interventions.
+Cela peut être bénéfique dans le cas des fruitiers forestiers très héliophiles.
+La concurrence au sein d'une même espèce est moins problématique voir souhaitable.
+Par exemple semer 8mx8m d'aliziers de façon à obtenir un îlot de 4 beaux aliziers dans une parcelle de chênes sessiles.
+
+Réserver un moyen d'accès aux ilots.
+
+* Préparation du sol
+Déterminer à quel point le sol doit être ameublis est important si l'on souhaite s'épargner de nombreuses heures de travail inutiles.
+
+
+* Récolte et utilisation des semences
+** Chênes
+*** Précautions
+Les glands ne doivent pas être exposés au gel (tolérance légère).
+Le dessèchement tue les glands.
+Les glands attirent les sangliers et les rongeurs.
+*** Semis
+Placer les glands sous 2 cm à 5 cm de terre et ajouter BRF pour isoler.
+La profondeur des semis dépend de la pression exercée par les rongeurs, de la légèreté du sol et du climat local.
+Certaines expériences ont utilisé un semis jusqu'à 15 cm de profondeur.
+*** Semis directement après récolte
+*** Semis après germination préalable
+Placer à l'abri des rongeurs dans du sable, de la tourbe humide, à température extérieur ou frigo.
+Semer tant que les germes sont courts, si possible.
+
+** Cormiers et Aliziers (Poiriers ? Pommiers ?)
+Voir le site de l'association cormier
+*** Préparation des graines
+Extraire des fruits mûrs au moment où ils commencent juste à fermenter
+Extraire les graines de la pulpe avec un tamis
+Laisser sécher les graines naturellement a l'air ambiant ?  2 semaines à température ambiante
+*** Stratification
+2-4°C Pendant 4 mois
+*** Semis
+Recouvrir d'une mince couche de sable ou substrat humide
+*** Semis après germination préalable
+Recouvrir d'une mince couche de sable ou substrat humide.
+Attention germination rapide,
+développement de multiples racines dès la germination,
+ne pas semer densément, 3-4 jours pour repiquer.
+Si peu de graines, pots individuels
+
+** Érable champêtre
+Récolter les graines juste avant qu'elles ne sèchent sur l'arbre
+hydrater dans de l'eau
+*** Précautions
+Ne pas sécher, les graines sèches meurent
+*** Semis direct après récolte
+
+** Noyer commun
+*** Semis direct après récolte
+Placer sous 2-5 cm de terre et BRF
