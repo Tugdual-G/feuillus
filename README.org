@@ -1,4 +1,5 @@
 #+title: Notes sur le reboisement de petites parcelles agricoles
+#+bibliography: sources/sources.bib
 
 Ces notes personnelles concernent le boisement en feuillus de petites parcelles ( < 0.5 ha ) en limitant
 l'investissement financier ainsi que les heures de travail autant que possible.
@@ -67,13 +68,13 @@ Semer densément permet une protection vis-à-vis du soleil et du vent et permet
 Il est plus simple d'opérer à une sélection manuelle par la suite si l'on souhaite favoriser des arbres comme les fruitiers forestiers.
 
 Respecter les caractéristiques de sociabilité des espèces, par exemple, ne pas planter une forêt pure de merisiers.
-Préférer le semis en ilots pour les espèces naturellement disséminées ou très héliophiles.
-Semer en îlot permet de limiter la concurrence enter-espèces, et facilite grandement le suivi et les interventions.
+Préférer le semis en îlots pour les espèces naturellement disséminées ou très héliophiles.
+Semer en îlot permet de limiter la concurrence inter-espèces, et facilite grandement le suivi et les interventions.
 Cela peut être bénéfique dans le cas des fruitiers forestiers très héliophiles.
 La concurrence au sein d'une même espèce est moins problématique voir souhaitable.
-Par exemple semer 8mx8m d'aliziers de façon à obtenir un îlot de 4 beaux aliziers dans une parcelle de chênes sessiles.
+Par exemple semer 8 m x 8 m d'alisiers de façon à obtenir un îlot de 4 beaux alisiers dans une parcelle de chênes sessiles.
 
-Réserver un moyen d'accès aux ilots.
+Réserver un moyen d'accès aux îlots.
 
 * Préparation du sol
 Déterminer à quel point le sol doit être ameublis est important si l'on souhaite s'épargner de nombreuses heures de travail inutiles.
@@ -94,14 +95,17 @@ Certaines expériences ont utilisé un semis jusqu'à 15 cm de profondeur.
 Placer à l'abri des rongeurs dans du sable, de la tourbe humide, à température extérieur ou frigo.
 Semer tant que les germes sont courts, si possible.
 
-** Cormiers et Aliziers (Poiriers ? Pommiers ?)
+** Cormiers et Alisiers (Poiriers ? Pommiers ?)
 Voir le site de l'association cormier
+Les plus gros fruits pourraient avoir le meilleur taux de germination [cite:@drvodelic2018].
 *** Préparation des graines
 Extraire des fruits mûrs au moment où ils commencent juste à fermenter
-Extraire les graines de la pulpe avec un tamis
-Laisser sécher les graines naturellement a l'air ambiant ?  2 semaines à température ambiante
+Extraire les graines de la pulpe avec un tamis, bien rincer les graines à l'eau [cite:@drvodelic2018].
+Enlever le tégument [cite:@bariteau2006]
+Laisser sécher les graines naturellement a l'air ambiant ?  2 semaines à température ambiante ?
 *** Stratification
-2-4°C Pendant 4 mois
+2-4°C Pendant 4 mois dans un milieux humide (sable, tourbe ...)
+Les graines peuvent germer durant la fin de la stratification, surveiller.
 *** Semis
 Recouvrir d'une mince couche de sable ou substrat humide
 *** Semis après germination préalable
@@ -112,9 +116,9 @@ ne pas semer densément, 3-4 jours pour repiquer.
 Si peu de graines, pots individuels
 
 *** Précaution
-Les graines de poirier peuvent rentrer a nouveau en dormance si elle sont
+Les graines de poirier peuvent rentrer à nouveau en dormance si elle sont
 exposées au chaud (plus de 15°C) après stratification.
-Le plus simple semble être de semer en pleine terre à la fin de l'hiver aprés stratification.
+Le plus simple semble être de semer en pleine terre à la fin de l'hiver après stratification.
 
 ** Érable champêtre
 Récolter les graines juste avant qu'elles ne sèchent sur l'arbre
@@ -125,9 +129,10 @@ Ne pas sécher, les graines sèches meurent
 
 ** Merisier
 *** stratification
-- 4 mois 2-4°C
-Nécessite des températures variables aprés passage au froid,
-pour cette raison placer les graines à germer a l'exterieur à la fin de l'hiver après stratification.
+- 4 mois 2-4°C dans un milieux humide
+Nécessite des températures variables après passage au froid [cite:@esen2006],
+pour cette raison placer les graines à germer a l'extérieur à la fin de l'hiver après stratification.
+Autrement opérer des cycles artificiellement.
 
 *** Précaution
 Les graines peuvent rentrer a nouveau en dormance si elle sont
@@ -138,12 +143,3 @@ exposées au chaud (plus de 15°C) après stratification.
 *** Semis direct après récolte
 Placer sous 2-5 cm de terre et BRF
 
-* Bibliographie
-
-** Sorbus domestica
-- /cite{bariteau2006}
-- /cite{drvodelic2018}
-
-** Sorbus Torminalis
-
-** Prunus avium
