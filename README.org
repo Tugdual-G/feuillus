@@ -5,7 +5,7 @@ l'investissement financier ainsi que les heures de travail autant que possible.
 
 Le document synthétise les informations glanées dans la littérature ainsi que
 les réflexions liées à l'observation de parcelles boisées présentant des niveaux d'interventions variables.
-L'expérience de plantations de haies bocagères a également enrichi la réflexion.
+L'expérience de plantations et semis de haies bocagères a également enrichi la réflexion.
 
 * Choix des essences
 Le choix des essences s'appuie sur l'observation de la flore locale en tenant compte des caractéristiques de chaque station.
@@ -14,24 +14,28 @@ L'anticipation des aléas passe par la diversification des essences.
 ** Changement climatique
 La prise en compte du changement climatique s'appuie en partie sur l'outil climessence.
 L'expérimentation raisonnée joue également un rôle,
-par exemple, via la migration assistée d'essences provenant de stations locales plus sèches,
+par exemple, via la migration assistée d'essences suffisement plastiques et provenant de stations locales plus sèches (alisiers, poiriers sauvages),
 ou par l'utilisation d'essences proches des essences locales et non envahissantes (chêne tauzin, chêne liège, chêne faginé).
 
 
 * Techniques de semis
-Le semis direct en pleine terre est favorisé autant que possible.
+Le semis direct en pleine terre permet d'obtenir des arbres vigoureux a peu de frais en comparaison avec la plantation,
+à quelques conditions : bien repérer et protéger les zones de semis, suivre l'évolution dans la première année, semer au bon moment.
+L'avantage principal de la plantation sur le semis concerne l'avantage face à la concurrence des herbacés, ronces, prunellier.
+
 ** Semis direct en pleine terre
 avantages:
 - moins de manipulations des semences, simplicité
 - Système racinaire profond et exempt de déformations
+- Meilleure résistance à la sécheresse
 - Sélection naturelle
-- facilite de grandes quantités/densités de tiges
+- facilite à obtenir de grandes quantités/densités de tiges
 - économique
 
 Désavantages:
 - Plants plus sensibles à la concurrence en tout début de croissance
-  - Désherbage et suivis des jeunes plants au moins sur la première année
-- Nécessite un sol humide au début du développement racinaire
+- Désherbage et suivis des jeunes plants au moins sur la première année
+- Nécessite un sol humide au tout début du développement racinaire
 - Requiert une forte disponibilité en semences
 
 *** Semis directement après récolte des graines
@@ -75,7 +79,7 @@ Réserver un moyen d'accès aux ilots.
 Déterminer à quel point le sol doit être ameublis est important si l'on souhaite s'épargner de nombreuses heures de travail inutiles.
 
 
-* Récolte et utilisation des semences
+* Récolte et préparation des semences
 ** Chênes
 *** Précautions
 Les glands ne doivent pas être exposés au gel (tolérance légère).
@@ -107,12 +111,28 @@ développement de multiples racines dès la germination,
 ne pas semer densément, 3-4 jours pour repiquer.
 Si peu de graines, pots individuels
 
+*** Précaution
+Les graines de poirier peuvent rentrer a nouveau en dormance si elle sont
+exposées au chaud (plus de 15°C) après stratification.
+Le plus simple semble être de semer en pleine terre à la fin de l'hiver aprés stratification.
+
 ** Érable champêtre
 Récolter les graines juste avant qu'elles ne sèchent sur l'arbre
 hydrater dans de l'eau
 *** Précautions
 Ne pas sécher, les graines sèches meurent
 *** Semis direct après récolte
+
+** Merisier
+*** stratification
+- 4 mois 2-4°C
+Nécessite des températures variables aprés passage au froid,
+pour cette raison placer les graines à germer a l'exterieur à la fin de l'hiver après stratification.
+
+*** Précaution
+Les graines peuvent rentrer a nouveau en dormance si elle sont
+exposées au chaud (plus de 15°C) après stratification.
+
 
 ** Noyer commun
 *** Semis direct après récolte
