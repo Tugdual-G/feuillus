@@ -137,3 +137,13 @@ exposées au chaud (plus de 15°C) après stratification.
 ** Noyer commun
 *** Semis direct après récolte
 Placer sous 2-5 cm de terre et BRF
+
+* Bibliographie
+
+** Sorbus domestica
+- /cite{bariteau2006}
+- /cite{drvodelic2018}
+
+** Sorbus Torminalis
+
+** Prunus avium
