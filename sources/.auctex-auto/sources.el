@@ -4,6 +4,7 @@
    (LaTeX-add-bibitems
     "bariteau2006"
     "drvodelic2018"
-    "esen2006"))
+    "esen2006"
+    "prevosto2015"))
  :bibtex)
 

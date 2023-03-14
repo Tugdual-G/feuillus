@@ -1,28 +1,32 @@
 #+title: Notes sur le reboisement de petites parcelles agricoles
 #+bibliography: sources/sources.bib
 
-Ces notes personnelles concernent le boisement en feuillus de petites parcelles ( < 0.5 ha ) en limitant
-l'investissement financier ainsi que les heures de travail autant que possible.
+Ces notes personnelles concernent le boisement en feuillus de petites parcelles ( < 0.5 ha ) avec pour contrainte
+la minimisation de l'investissement financier et des heures de travail.
+Pour ces raisons, les interventions de dépressage et d'éclaircie sont laissées autant que possible à la sélection naturelle.
+De la même manière on cherche à atteindre une densité importante de tiges afin de profiter de l'autoélagage et de la sélection.
 
 Le document synthétise les informations glanées dans la littérature ainsi que
 les réflexions liées à l'observation de parcelles boisées présentant des niveaux d'interventions variables.
-L'expérience de plantations et semis de haies bocagères a également enrichi la réflexion.
+L'expérience de plantations et semis de haies bocagères soutient également la réflexion.
 
 * Choix des essences
 Le choix des essences s'appuie sur l'observation de la flore locale en tenant compte des caractéristiques de chaque station.
 Pour des questions de coût et de simplicité, le reboisement s'appuie autant que possible sur la récolte de semences et drageons locaux.
 L'anticipation des aléas passe par la diversification des essences.
+On peut enfin remarquer que l'intégration d'essences de sous-étage et de gainage peu participer à l'amélioration de la qualité des troncs.
 ** Changement climatique
 La prise en compte du changement climatique s'appuie en partie sur l'outil climessence.
 L'expérimentation raisonnée joue également un rôle,
-par exemple, via la migration assistée d'essences suffisement plastiques et provenant de stations locales plus sèches (alisiers, poiriers sauvages),
+par exemple, via la migration assistée d'essences suffisement plastiques et provenant de stations locales plus sèches (alisiers, poiriers sauvages, chênes verts),
 ou par l'utilisation d'essences proches des essences locales et non envahissantes (chêne tauzin, chêne liège, chêne faginé).
 
 
 * Techniques de semis
-Le semis direct en pleine terre permet d'obtenir des arbres vigoureux à peu de frais en comparaison avec la plantation,
+Le semis direct en pleine terre permet d'obtenir des arbres vigoureux à peu de frais relativement à la plantation,
 à quelques conditions : bien repérer et protéger les zones de semis, suivre l'évolution dans la première année, semer au bon moment.
-L'avantage principal de la plantation sur le semis concerne l'avantage face à la concurrence des herbacés, ronces, prunellier.
+L'intérêt principal de la plantation comparativement au semis est lié à l'avantage des plants face à la concurrence des herbacés, ronces et espèces pionnières.
+[cite:@prevosto2015]
 
 ** Semis direct en pleine terre
 avantages:
@@ -63,7 +67,7 @@ n'accueillent les rongeurs pendant l'hiver.
 Pour les raisons précédentes, un reboisement progressif dans le temps peut être plus simple à mettre en place.
 Cela permet de limiter les coûts en grillage et protections et les jeunes arbres peuvent profiter de l'ombre de ceux qui ont étés précédemment installés.
 
-La végétation d'accompagnement et la concurrence participent à la croissance en hauteur des plants.
+La végétation d'accompagnement et la concurrence participent au gainage des plants.
 Semer densément permet une protection vis-à-vis du soleil et du vent et permet aux arbres de gagner en hauteur.
 Il est plus simple d'opérer à une sélection manuelle par la suite si l'on souhaite favoriser des arbres comme les fruitiers forestiers.
 
@@ -75,6 +79,13 @@ La concurrence au sein d'une même espèce est moins problématique voir souhait
 Par exemple semer 8 m x 8 m d'alisiers de façon à obtenir un îlot de 4 beaux alisiers dans une parcelle de chênes sessiles.
 
 Réserver un moyen d'accès aux îlots.
+
+* Protection face au gibier
+Lorsque les densité de tiges sont élevées les protections individuelles perdent rapidement de leur intérêt, d'autre part les surfaces concernées étant réduites, il vaut mieux  opter
+pour le grillagage de la parcelle.
+On peut ajouter qu'il est difficile de protéger efficacement les plants contre le grand gibier à l'aide de protections individuelles et que ces dernières
+occasionnent parfois des dégats sur les jeunes arbres (brûlures, déformations).
+
 
 * Préparation du sol
 Déterminer à quel point le sol doit être ameublis est important si l'on souhaite s'épargner de nombreuses heures de travail inutiles.
